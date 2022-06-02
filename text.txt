@@ -1,0 +1,6 @@
+<div class="header">
+		<h1 class="logo">
+			<a href="#" target="_self">Start Bootstrap</a>
+		</h1>
+		<button class="btn-signup">Sign Up</button>
+	</div>
